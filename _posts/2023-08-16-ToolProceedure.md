@@ -2,8 +2,8 @@
 toc: true
 comments: true
 layout: post
-title: Prunned Tool Procedure ...
-description: Example hacks!!! This shows procedures performed by student, not the procedures for the entire class.  Modified or prunned for specific machine.
+title: Tool Procedure
+description: Installation and utilization of vscode and powershell tools.
 courses: { compsci: {week: 0} }
 type: hacks
 ---
@@ -11,10 +11,10 @@ type: hacks
 ## Hacks
 > Complete the procedure below accurately.  These are absolutely required and must be 100% accurate for your success.
 
-### GitHub Account
+## GitHub Account
 - Follow instruction [https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)  Use your own personal/permanent email... NOT SCHOOL!!! GitHub account belongs to you.
 
-### MacOS 1st Time Developer
+## MacOS 1st Time Developer
 > VSCode install
 - Install [VSCode](https://code.visualstudio.com/docs/setup/mac)
 
@@ -46,7 +46,7 @@ $ brew install git  # install latest git
 $ brew install python # install python3 for development
 $ python --version # version of python3 installed
 ```
-### Windows 1st Time Developer
+## Windows 1st Time Developer
 > VSCode install using WSL. Windows users have option to have best of Windows and Linux while developing within VSCode.
 - Install [VSCode using WSL]({{site.baseurl}}/techtalk/vscode-wsl).
 - Required review, become familiar with [Windows WSL development](https://code.visualstudio.com/docs/remote/wsl-tutorial)
@@ -81,7 +81,7 @@ $ sudo apt install python3 python3-pip # install python3 and pip3 for developmen
 $ python --version  # version of python3 should be shown
 
 
-### Jupyter Install and Kernels (MacOs and WSL)
+## Jupyter Install and Kernels
 
 > Install Jupyter and check python kernel 
 ```bash
