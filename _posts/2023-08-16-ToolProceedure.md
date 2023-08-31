@@ -5,7 +5,7 @@ layout: post
 title: Tool Procedure
 description: Installation and utilization of vscode and powershell tools.
 courses: { compsci: {week: 0} }
-type: hacks
+type: help
 ---
 
 ## Hacks

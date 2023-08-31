@@ -8,4 +8,4 @@ type: hacks
 courses: { compsci: {week: 2} }
 ---
 
-- Ronit is not a mayo monkey so therefore can not be batman. Batman is a white chocolate pookie bear cracker. Also he talks more like Alfred. Abdullah will by my Robin, and Ronit will be my Alfred (or my catwoman iykyk).
+- Me and Ronit have had serious debated regarding which of us is Batman. Ronit talks more like Alfred. He also has parents. I am more Batman.

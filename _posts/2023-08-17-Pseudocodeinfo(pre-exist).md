@@ -5,7 +5,7 @@ layout: post
 title: Pseudo Code Info
 description: Terminology used by college boards.
 courses: {'compsci': {'week': 1}}
-type: hacks
+type: help
 ---
 
 ## Learning College Board Pseudo Code
