@@ -2,8 +2,8 @@
 toc: true
 comments: true
 layout: post
-title: Problems V1
-description: Originally on home page for tools check. Includes week 0.
+title: Problems and Solutions V1
+description: Originally on home page for tools check. Also includes week 0 activity.
 type: tangibles
 courses: { compsci: {week: 1} }
 ---
