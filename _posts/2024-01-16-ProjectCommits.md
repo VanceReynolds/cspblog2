@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Key Commits
+title: Team Project Commits
 description: From prj 1, prj 2, tt2.
 type: tangibles
 courses: { compsci: {week: 14} }
