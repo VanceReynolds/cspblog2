@@ -5,7 +5,7 @@ layout: post
 title: Team Project Commits
 description: From prj 1, prj 2, tt2.
 type: tangibles
-courses: { compsci: {week: 14} }
+courses: { compsci: {week: 18} }
 ---
 
 # Key Commits

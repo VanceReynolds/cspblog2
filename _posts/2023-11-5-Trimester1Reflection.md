@@ -5,7 +5,7 @@ layout: post
 title: Trimester 1 Reflection
 description: My trimester 1 reflection.
 type: tangibles
-courses: { compsci: {week: 10} }
+courses: { compsci: {week: 11} }
 ---
 
 # Trimester 1 Reflection

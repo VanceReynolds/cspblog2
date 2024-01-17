@@ -4,7 +4,7 @@ layout: post
 hide: False
 title: Team Project Assets
 description: Key Assets
-courses: {'compsci': {'week': 14}}
+courses: {'compsci': {'week': 18}}
 type: tangibles
 ---
 

@@ -5,7 +5,7 @@ layout: post
 title: MCQ Preperation + Assets
 description: Pre test predictions and studying.
 type: hacks
-courses: { compsci: {week: 13} }
+courses: { compsci: {week: 16} }
 ---
 
 # Test Preperation

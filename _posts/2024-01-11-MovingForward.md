@@ -5,7 +5,7 @@ layout: post
 title: Moving Ahead With CPT Project
 description: Current thoughts and plans
 type: plans
-courses: { compsci: {week: 13} }
+courses: { compsci: {week: 16} }
 ---
 
 ## My Job In The Frontend
