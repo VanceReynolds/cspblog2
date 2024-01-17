@@ -19,6 +19,9 @@ courses: { compsci: {week: 14} }
 
 <a href="https://github.com/VanceReynolds/cspblog2/commit/f23402027863ab55e01be92e5ddd97f9f40f399b">Project 1 Plan</a>
 
+<a href="https://github.com/VanceReynolds/cspblog2/commit/872feb39bb6930e9d0a057a460c6ef62ea615c8a
+">Project 2 Plan</a>
+
 ## Assets
 
 <a href="https://github.com/nighthawkcoders/teacher_portfolio/issues/92#issuecomment-1883618939">Student Teaching Part 2 + Key Indicators</a>
