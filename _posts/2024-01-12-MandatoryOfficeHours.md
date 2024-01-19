@@ -10,6 +10,17 @@ courses: { compsci: {week: 13} }
 
 ## Q50
 
+<a href="https://drive.google.com/file/d/1ks6nX3BHPjGEuiEGl648oCjk5jtuaRMq/view?usp=sharing
+">Q50</a>
+
 This questions related to the Reasonable Time Algorithm:
 
-Unreasonable time: Algorithms with exponential or factorial efficiencies are examples of algorithms that run in an unreasonable amount of time. Reasonable time: Algorithms with a polynomial efficiency or lower (constant, linear, square, cube, etc.) are said to run in a reasonable amount of time.
+Answer D is correct because in order for an algorithm to run in reasonable time, it must take a number of steps less than or equal to a polynomial function. Algorithm I accesses elements 
+ times (twice for each of n elements), which is considered reasonable time. Algorithm II accesses 
+ elements (n times for each of n elements), which is considered reasonable time. Algorithm III accesses 10 elements, which is considered reasonable time.
+
+Simple Explainations:
+
+Unreasonable time: Algorithms with exponential or factorial efficiencies are examples of algorithms that run in an unreasonable amount of time. 
+
+Reasonable time: Algorithms with a polynomial efficiency or lower (constant, linear, square, cube, etc.) are said to run in a reasonable amount of time.
