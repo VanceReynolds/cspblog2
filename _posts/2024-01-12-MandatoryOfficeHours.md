@@ -16,8 +16,8 @@ courses: { compsci: {week: 13} }
 This questions related to the Reasonable Time Algorithm:
 
 Answer D is correct because in order for an algorithm to run in reasonable time, it must take a number of steps less than or equal to a polynomial function. Algorithm I accesses elements 
- times (twice for each of n elements), which is considered reasonable time. Algorithm II accesses 
- elements (n times for each of n elements), which is considered reasonable time. Algorithm III accesses 10 elements, which is considered reasonable time.
+ times (twice for each of n elements), which is considered in time. Algorithm II accesses 
+ elements (n times for each of n elements), which is in reasonable time. Algorithm III accesses 10 elements, which is in reasonable time.
 
 Simple Explainations:
 
